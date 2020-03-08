@@ -1,0 +1,7 @@
+
+//Test file used for writing our project 
+//Contains three song nodes 
+
+Waiting on a Friend, The Rolling Stones, Tattoo You
+Levon, Elton John, Madman Across the Water
+Two Trains, Little Feat, Dixie Chicken
